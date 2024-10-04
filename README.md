@@ -6,7 +6,7 @@
 Completing the Google Cybersecurity course on Coursera provided me with hands-on experience in key areas of cybersecurity, including threat detection, risk management, and incident response. I gained essential knowledge in network security, cryptography, and ethical hacking, and developed practical skills through interactive labs and real-world scenarios. This comprehensive training equipped me with the expertise and tools necessary to protect systems and data, preparing me for a successful career in cybersecurity.
 <br />
 
-<h2>Certificate on Completion:</h2>
+<h2>Certificate of Completion:</h2>
 
 <p align="center">
 <br />
