@@ -1,25 +1,26 @@
-<h1>Google Cybersecurity Certificate</h1>
+# 🎓 Google Cybersecurity Certificate
 
- ### [Certificate](https://coursera.org/share/1236bfe98fc15dcebf1b7007a5faff76)
+📄 [View Certificate](https://coursera.org/share/1236bfe98fc15dcebf1b7007a5faff76)
 
-<h2>Description</h2>
-Completing the Google Cybersecurity course on Coursera provided me with hands-on experience in key areas of cybersecurity, including threat detection, risk management, and incident response. I gained essential knowledge in network security, cryptography, and ethical hacking, and developed practical skills through interactive labs and real-world scenarios. This comprehensive training equipped me with the expertise and tools necessary to protect systems and data, preparing me for a successful career in cybersecurity.
-<br />
+---
 
-<h2>Certificate of Completion:</h2>
+## 📌 Overview
+
+I successfully completed the **Google Cybersecurity Certificate** on Coursera, gaining hands-on experience with key cybersecurity concepts and tools. The program covered:
+
+- 🔍 Threat detection & mitigation  
+- ⚠️ Risk assessment & management  
+- 🛡️ Incident response strategies  
+- 🌐 Network security fundamentals  
+- 🔐 Cryptography principles  
+- 🧑‍💻 Ethical hacking and best practices
+
+Interactive labs and real-world scenarios helped reinforce my skills, preparing me for entry-level roles in cybersecurity and building a solid technical foundation for further specialization.
+
+---
+
+## 🖼️ Certificate of Completion
 
 <p align="center">
-<br />
-<img src="https://i.imgur.com/uiuiQjo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+  <img src="https://i.imgur.com/uiuiQjo.png" alt="Google Cybersecurity Certificate" width="80%" />
 </p>
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
